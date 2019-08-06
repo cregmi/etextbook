@@ -5,187 +5,139 @@
 		<id>1</id>
 		<startpage>5</startpage>
 		<endpage>11</endpage>
-		<pageforexplainer>5</pageforexplainer> 
-		<pageforgame>11</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>2</id>
 		<startpage>12</startpage>
 		<endpage>26</endpage>
-		<pageforexplainer>12</pageforexplainer> 
-		<pageforgame>26</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>3</id>
 		<startpage>27</startpage>
 		<endpage>40</endpage>
-		<pageforexplainer>27</pageforexplainer> 
-		<pageforgame>40</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>4</id>
 		<startpage>41</startpage>
 		<endpage>49</endpage>
-		<pageforexplainer>41</pageforexplainer> 
-		<pageforgame>49</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>5</id>
 		<startpage>50</startpage>
 		<endpage>57</endpage>
-		<pageforexplainer>50</pageforexplainer> 
-		<pageforgame>57</pageforgame>
 	</chapter>
 	<chapter>
 		<id>6</id>
 		<startpage>58</startpage>
 		<endpage>73</endpage>
-		<pageforexplainer>58</pageforexplainer> 
-		<pageforgame>73</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>7</id>
 		<startpage>74</startpage>
 		<endpage>84</endpage>
-		<pageforexplainer>74</pageforexplainer> 
-		<pageforgame>84</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>8</id>
 		<startpage>85</startpage>
 		<endpage>99</endpage>
-		<pageforexplainer>85</pageforexplainer> 
-		<pageforgame>99</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>9</id>
 		<startpage>100</startpage>
 		<endpage>108</endpage>
-		<pageforexplainer>100</pageforexplainer> 
-		<pageforgame>108</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>10</id>
 		<startpage>109</startpage>
 		<endpage>121</endpage>
-		<pageforexplainer>109</pageforexplainer> 
-		<pageforgame>121</pageforgame>
 	</chapter>
 	<chapter>
 		<id>11</id>
 		<startpage>122</startpage>
 		<endpage>137</endpage>
-		<pageforexplainer>122</pageforexplainer> 
-		<pageforgame>137</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>12</id>
 		<startpage>138</startpage>
 		<endpage>148</endpage>
-		<pageforexplainer>138</pageforexplainer> 
-		<pageforgame>148</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>13</id>
 		<startpage>149</startpage>
 		<endpage>156</endpage>
-		<pageforexplainer>149</pageforexplainer> 
-		<pageforgame>156</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>14</id>
 		<startpage>157</startpage>
 		<endpage>167</endpage>
-		<pageforexplainer>157</pageforexplainer> 
-		<pageforgame>167</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>15</id>
 		<startpage>168</startpage>
 		<endpage>174</endpage>
-		<pageforexplainer>168</pageforexplainer> 
-		<pageforgame>174</pageforgame>
 	</chapter>
 	<chapter>
 		<id>16</id>
 		<startpage>175</startpage>
 		<endpage>195</endpage>
-		<pageforexplainer>175</pageforexplainer> 
-		<pageforgame>195</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>17</id>
 		<startpage>196</startpage>
 		<endpage>207</endpage>
-		<pageforexplainer>196</pageforexplainer> 
-		<pageforgame>207</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>18</id>
 		<startpage>208</startpage>
 		<endpage>227</endpage>
-		<pageforexplainer>208</pageforexplainer> 
-		<pageforgame>227</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>19</id>
 		<startpage>228</startpage>
 		<endpage>238</endpage>
-		<pageforexplainer>228</pageforexplainer> 
-		<pageforgame>238</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>20</id>
 		<startpage>239</startpage>
 		<endpage>246</endpage>
-		<pageforexplainer>229</pageforexplainer> 
-		<pageforgame>246</pageforgame>
 	</chapter>
 	<chapter>
 		<id>21</id>
 		<startpage>247</startpage>
 		<endpage>256</endpage>
-		<pageforexplainer>247</pageforexplainer> 
-		<pageforgame>256</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>22</id>
 		<startpage>257</startpage>
 		<endpage>266</endpage>
-		<pageforexplainer>257</pageforexplainer> 
-		<pageforgame>266</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>23</id>
 		<startpage>267</startpage>
 		<endpage>274</endpage>
-		<pageforexplainer>267</pageforexplainer> 
-		<pageforgame>274</pageforgame>
 	</chapter>
 	
 	<chapter>
 		<id>24</id>
 		<startpage>275</startpage>
 		<endpage>287</endpage>
-		<pageforexplainer>287</pageforexplainer> 
-		<pageforgame>287</pageforgame>
 	</chapter>	
 </textbook>
