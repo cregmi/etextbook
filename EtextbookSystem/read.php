@@ -101,7 +101,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 		<link rel="stylesheet" type="text/css" href="./vendor/semantic.min.css">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Interface 01, <?=$bookName?>, <?=str_replace('_',' ',$bookTag)?></title>
+        <title>Reading, <?=$bookName?>, <?=str_replace('_',' ',$bookTag)?></title>
 		<style>
 			canvas{
 				width:49%;
