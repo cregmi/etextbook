@@ -286,7 +286,7 @@
 				pageRendering = true;
 				// Using promise to fetch the page
 				pdfDoc.getPage(num).then(function(page) {
-					var viewport = page.getViewport(scale);
+					var viewport = page.getViewport({scale: scale});
 					leftCanvas.height = viewport.height;
 					leftCanvas.width = viewport.width;
 
@@ -311,7 +311,7 @@
 				pageRendering = true;
 				// Using promise to fetch the page
 				pdfDoc.getPage(num + 1).then(function(page) {
-					var viewport = page.getViewport(scale);
+					var viewport = page.getViewport({scale: scale});
 					rightCanvas.height = viewport.height;
 					rightCanvas.width = viewport.width;
 
@@ -452,7 +452,7 @@
 			/**
 			 * Asynchronously downloads PDF.
 			 */
-			pdfjsLib.getDocument(pdfFile).then(function(pdfDoc_) {
+			pdfjsLib.getDocument(pdfFile).promise.then(function(pdfDoc_) {
 				pdfDoc = pdfDoc_;
 				document.getElementById('page_count').textContent = pdfDoc.numPages;
 
