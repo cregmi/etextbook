@@ -2,7 +2,6 @@
 	ini_set( 'display_errors', true );
 
 	date_default_timezone_set( 'Europe/Helsinki' );
-
 	define( 'DATABASE_DETAILS', 'mysql:host=localhost;dbname=library' );
 	define( 'DATABASE_USERNAME', 'root' );
 	define( 'DATABASE_PASSWORD', '' );
