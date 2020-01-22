@@ -19,5 +19,6 @@
 - The uploaded book is displayed in index page, and can be read on the browser. Lessons and exercises for the textbook can be uploaded and linked to the specific chapters of the textbook from the admin dashboard.
 ![Index page after book](https://github.com/cregmi/etextbook/blob/master/ImagesForReadMe/indexPageWithBook.png)
 ![Book reading interface](https://github.com/cregmi/etextbook/blob/master/ImagesForReadMe/bookReadingInterface.png)
+![Other dashboard tasks](https://github.com/cregmi/etextbook/blob/master/ImagesForReadMe/searchBooks.png)
 
 [See Demo](http://www.textbookslibrary.tk/)
