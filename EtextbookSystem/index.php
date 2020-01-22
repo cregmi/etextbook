@@ -237,7 +237,7 @@
 				                    <div class="ui description list" id="footerlinks">
 					                    <a href="#" class="item"><i class="facebook black icon"></i><?=Centerfootercontent01?></a>
 					                    <a href="#" class="item"><i class="youtube black  icon"></i><?=Centerfootercontent02?></a>
-					                    <a href="#" class="item"><i class="github black  icon"></i><?=Centerfootercontent03?></a>
+					                    <a href="https://github.com/cregmi/etextbook/" class="item" target="blank"><i class="github black  icon"></i><?=Centerfootercontent03?></a>
 				                    </div>
                                 </div>
 			                </div>
