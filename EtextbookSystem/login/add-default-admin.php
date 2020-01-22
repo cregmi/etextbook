@@ -1,5 +1,5 @@
 <?php
-		include '../include/config.php';
+		require_once('../include/config.php');
 		$userEntries = $databaseHandle->query('SELECT COUNT(*) AS num_rows FROM user_admin'); 
 		$rowCount = $userEntries->fetchColumn();		
 	
