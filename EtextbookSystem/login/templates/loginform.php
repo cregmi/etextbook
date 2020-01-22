@@ -2,6 +2,11 @@
 	if(!isset($thisPage)){
 		die();
 	}
+	
+	include '../include/config.php';
+	$userEntries = $databaseHandle->query('SELECT COUNT(*) AS num_rows FROM user_admin'); 
+	$rowCount = $userEntries->fetchColumn();
+	$buttonState = ''
 ?> 
 <html>
 	<head>
@@ -38,12 +43,21 @@
 				</div>
 			</div>
 		</div>
+		
 		<div class="ui middle aligned center aligned grid">
 			<div class="six wide column">
 				<img src="../images/logo.png">
 				<div class="ui blue header content">
 					<?=Message?>
 				</div>
+				
+				<?php
+					if($rowCount == 0){
+						echo "<div class='ui red message'> User credentials to login haven't been set yet. <p><a href = './add-default-admin.php'>Add default admin account</a></p> </div>";
+						$buttonState = 'disabled';
+					}
+				?>
+		
 				<form class="ui large form" action="index.php?action=login" method="post" enctype="application/x-www-form-urlencoded">
 					<div class="ui stacked segment">
 						<div class="field">
@@ -60,7 +74,7 @@
 						</div>
 					</div>
 					
-					<input class="ui fluid large blue submit button" type="submit" name="Login" id = "sub" value="<?=Button?>">
+					<input class="ui fluid large blue submit button" type="submit" name="Login" id = "sub" value="<?=Button?>" <?=$buttonState?>>
 					
 					<?php if ( isset( $loginError) ) { ?>
 					<div class="ui red message">
@@ -79,7 +93,3 @@
 		</div>
 	</body>
 </html>
-
-
-
-
