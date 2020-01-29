@@ -1,5 +1,8 @@
 # Prototype e-textbook system
-## Deploy as a web application,
+- Upload textbook file in PDF, and XML file which details the chapter details of textbook.
+- Upload lesson and exercise multimedia files and link those to the specific chapters of the textbook.
+- Read the e-textbook (package of textbook file in PDF and linked multimedia files) in the browser.
+## Steps to deploy as a web application,
 - Copy and paste all the code files inside the EtextbookSystem folder to the webroot of your webserver.
 - Create database and tables using the SQL command given in the code file- /include/table.sql
 - Make necessary changes to provide your MySQL database credentials in the code file- /include/config.php, in the line 4 to 7.
