@@ -32,4 +32,4 @@
 ![interfaces to lessons and exercises](https://github.com/cregmi/etextbook/blob/master/ImagesForReadMe/merged-media-interface.png)
 [See Demo](http://www.textbookslibrary.tk/)
 
-This prototype e-textbook system has been developed as a part of [a thesis research]. (https://www.doria.fi/handle/10024/173065)
+This prototype e-textbook system has been developed as a part of [a thesis research](https://www.doria.fi/handle/10024/173065).
