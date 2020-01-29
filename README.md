@@ -21,9 +21,13 @@
 - If the PHP extension imagick (https://www.php.net/manual/en/book.imagick.php) is not available, default image file available at  /upload/book/image/default.png is used instead of converting the first page of PDF file into the image file. See the lines from  85 to 103 in the code file /login/dashboard.php.
 - The uploaded book is displayed in index page, and can be read on the browser. Lessons and exercises for the textbook can be uploaded and linked to the specific chapters of the textbook from the admin dashboard.
 ![Index page after book](https://github.com/cregmi/etextbook/blob/master/ImagesForReadMe/indexPageWithBook.png)
-- PDF book reader based on [pdf.js] (https://github.com/mozilla/pdf.js) 
+- PDF book reader based on [pdf.js] (https://github.com/mozilla/pdf.js)
+
 ![Book reading interface](https://github.com/cregmi/etextbook/blob/master/ImagesForReadMe/bookReadingInterface.png)
 - Lessons and Exercise can be uploaded following the links given at left bottom cornor of the dashboard.
-![Other dashboard tasks](https://github.com/cregmi/etextbook/blob/master/ImagesForReadMe/searchBooks.png)
 
+![Other dashboard tasks](https://github.com/cregmi/etextbook/blob/master/ImagesForReadMe/searchBooks.png)
+- Uploaded lessons and exercises are linked to specific chapters of textbook using the book-map which is maintained using the data from XML file uploaded along with the PDF file. The hyperlinks to open lessons and exercises from the book reader are displayed at the end page of those chapters only.
+
+![interfaces to lessons and exercises](https://github.com/cregmi/etextbook/blob/master/ImagesForReadMe/merged-media-interface.png)
 [See Demo](http://www.textbookslibrary.tk/)
