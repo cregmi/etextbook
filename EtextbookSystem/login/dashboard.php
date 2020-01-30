@@ -437,7 +437,8 @@
 		
 		<a href="add-lesson.php" target="_blank">Add Lesson</a> |
 		<a href="add-exercise.php" target="_blank">Add Exercise</a> |
-		<a href="add-user.php" target="_blank">Add User</a>
+		<a href="add-user.php" target="_blank">Add User</a> |
+		<a href="create-book.php" target="_blank">Create New Textbook</a>
 		
 		<h5 class="ui right aligned header" id="siteby">
 			&copy;&nbsp;<a href="mailto:info@textbookslibrary.com" target="mail"><?=CopyrightText?></a>
