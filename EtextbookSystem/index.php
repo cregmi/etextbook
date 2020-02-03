@@ -13,7 +13,7 @@
 ?>
 
 <!doctype html>
-<html lang="en">
+<html lang="<?=$lang?>">
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="Content-Security-Policy" content="">
