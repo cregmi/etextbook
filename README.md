@@ -1,5 +1,5 @@
 # Prototype e-textbook system
-- Upload textbook file in PDF, and XML file which contains the chapter details of textbook.
+- Upload textbook file in PDF, and XML file which contains the chapter details of the textbook.
 - Upload lesson and exercise multimedia files and link those to the specific chapters of the textbook.
 - Read the e-textbook (package of textbook file in PDF and linked multimedia files) in the browser.
 ## Steps to deploy as a web application,
